@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\2_Datatypes\bin\Debug\2_Datatypes.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\2_Datatypes\bin\Debug\2_Datatypes.exe
+C:\Users\Hp\source\repos\2_Datatypes\2_Datatypes\bin\Debug\2_Datatypes.pdb
+C:\Users\Hp\source\repos\2_Datatypes\2_Datatypes\obj\Debug\2_Datatypes.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\2_Datatypes\obj\Debug\2_Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\2_Datatypes\obj\Debug\2_Datatypes.exe
+C:\Users\Hp\source\repos\2_Datatypes\2_Datatypes\obj\Debug\2_Datatypes.pdb
