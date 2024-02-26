@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\3_operators\bin\Debug\3_operators.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\3_operators\bin\Debug\3_operators.exe
+C:\Users\Hp\source\repos\2_Datatypes\3_operators\bin\Debug\3_operators.pdb
+C:\Users\Hp\source\repos\2_Datatypes\3_operators\obj\Debug\3_operators.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\3_operators\obj\Debug\3_operators.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\3_operators\obj\Debug\3_operators.exe
+C:\Users\Hp\source\repos\2_Datatypes\3_operators\obj\Debug\3_operators.pdb
