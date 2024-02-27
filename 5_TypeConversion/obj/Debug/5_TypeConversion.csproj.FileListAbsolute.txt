@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\5_TypeConversion\obj\Debug\5_TypeConversion.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\5_TypeConversion\obj\Debug\5_TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\5_TypeConversion\bin\Debug\5_TypeConversion.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\5_TypeConversion\bin\Debug\5_TypeConversion.exe
+C:\Users\Hp\source\repos\2_Datatypes\5_TypeConversion\bin\Debug\5_TypeConversion.pdb
+C:\Users\Hp\source\repos\2_Datatypes\5_TypeConversion\obj\Debug\5_TypeConversion.exe
+C:\Users\Hp\source\repos\2_Datatypes\5_TypeConversion\obj\Debug\5_TypeConversion.pdb
