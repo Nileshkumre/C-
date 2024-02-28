@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\7_conditionalstatement\obj\Debug\7_conditionalstatement.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\7_conditionalstatement\obj\Debug\7_conditionalstatement.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\7_conditionalstatement\bin\Debug\7_conditionalstatement.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\7_conditionalstatement\bin\Debug\7_conditionalstatement.exe
+C:\Users\Hp\source\repos\2_Datatypes\7_conditionalstatement\bin\Debug\7_conditionalstatement.pdb
+C:\Users\Hp\source\repos\2_Datatypes\7_conditionalstatement\obj\Debug\7_conditionalstatement.exe
+C:\Users\Hp\source\repos\2_Datatypes\7_conditionalstatement\obj\Debug\7_conditionalstatement.pdb
