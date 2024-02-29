@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\9_ LoopingStatements\bin\Debug\9_ LoopingStatements.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\9_ LoopingStatements\bin\Debug\9_ LoopingStatements.exe
+C:\Users\Hp\source\repos\2_Datatypes\9_ LoopingStatements\bin\Debug\9_ LoopingStatements.pdb
+C:\Users\Hp\source\repos\2_Datatypes\9_ LoopingStatements\obj\Debug\9_ LoopingStatements.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\9_ LoopingStatements\obj\Debug\9_ LoopingStatements.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\9_ LoopingStatements\obj\Debug\9_ LoopingStatements.exe
+C:\Users\Hp\source\repos\2_Datatypes\9_ LoopingStatements\obj\Debug\9_ LoopingStatements.pdb
