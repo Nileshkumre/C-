@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\8_ConditionalStatementsExamples\bin\Debug\8_ConditionalStatementsExamples.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\8_ConditionalStatementsExamples\bin\Debug\8_ConditionalStatementsExamples.exe
+C:\Users\Hp\source\repos\2_Datatypes\8_ConditionalStatementsExamples\bin\Debug\8_ConditionalStatementsExamples.pdb
+C:\Users\Hp\source\repos\2_Datatypes\8_ConditionalStatementsExamples\obj\Debug\8_ConditionalStatementsExamples.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\8_ConditionalStatementsExamples\obj\Debug\8_ConditionalStatementsExamples.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\8_ConditionalStatementsExamples\obj\Debug\8_ConditionalStatementsExamples.exe
+C:\Users\Hp\source\repos\2_Datatypes\8_ConditionalStatementsExamples\obj\Debug\8_ConditionalStatementsExamples.pdb
