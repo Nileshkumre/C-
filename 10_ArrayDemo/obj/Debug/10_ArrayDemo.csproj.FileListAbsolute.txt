@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\10_ArrayDemo\bin\Debug\10_ArrayDemo.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\10_ArrayDemo\bin\Debug\10_ArrayDemo.exe
+C:\Users\Hp\source\repos\2_Datatypes\10_ArrayDemo\bin\Debug\10_ArrayDemo.pdb
+C:\Users\Hp\source\repos\2_Datatypes\10_ArrayDemo\obj\Debug\10_ArrayDemo.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\10_ArrayDemo\obj\Debug\10_ArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\10_ArrayDemo\obj\Debug\10_ArrayDemo.exe
+C:\Users\Hp\source\repos\2_Datatypes\10_ArrayDemo\obj\Debug\10_ArrayDemo.pdb
