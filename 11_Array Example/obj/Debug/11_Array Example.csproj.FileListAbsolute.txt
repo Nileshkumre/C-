@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\11_Array Example\obj\Debug\11_Array Example.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\11_Array Example\obj\Debug\11_Array Example.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\11_Array Example\bin\Debug\11_Array Example.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\11_Array Example\bin\Debug\11_Array Example.exe
+C:\Users\Hp\source\repos\2_Datatypes\11_Array Example\bin\Debug\11_Array Example.pdb
+C:\Users\Hp\source\repos\2_Datatypes\11_Array Example\obj\Debug\11_Array Example.exe
+C:\Users\Hp\source\repos\2_Datatypes\11_Array Example\obj\Debug\11_Array Example.pdb
