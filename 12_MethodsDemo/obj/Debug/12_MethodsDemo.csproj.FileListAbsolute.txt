@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\12_MethodsDemo\bin\Debug\12_MethodsDemo.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\12_MethodsDemo\bin\Debug\12_MethodsDemo.exe
+C:\Users\Hp\source\repos\2_Datatypes\12_MethodsDemo\bin\Debug\12_MethodsDemo.pdb
+C:\Users\Hp\source\repos\2_Datatypes\12_MethodsDemo\obj\Debug\12_MethodsDemo.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\12_MethodsDemo\obj\Debug\12_MethodsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\12_MethodsDemo\obj\Debug\12_MethodsDemo.exe
+C:\Users\Hp\source\repos\2_Datatypes\12_MethodsDemo\obj\Debug\12_MethodsDemo.pdb
