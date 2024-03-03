@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\13_MethodParameters\bin\Debug\13_MethodParameters.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\13_MethodParameters\bin\Debug\13_MethodParameters.exe
+C:\Users\Hp\source\repos\2_Datatypes\13_MethodParameters\bin\Debug\13_MethodParameters.pdb
+C:\Users\Hp\source\repos\2_Datatypes\13_MethodParameters\obj\Debug\13_MethodParameters.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\13_MethodParameters\obj\Debug\13_MethodParameters.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\13_MethodParameters\obj\Debug\13_MethodParameters.exe
+C:\Users\Hp\source\repos\2_Datatypes\13_MethodParameters\obj\Debug\13_MethodParameters.pdb
