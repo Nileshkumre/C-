@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\17_ClassObjectDemo\bin\Debug\17_ClassObjectDemo.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\17_ClassObjectDemo\bin\Debug\17_ClassObjectDemo.exe
+C:\Users\Hp\source\repos\2_Datatypes\17_ClassObjectDemo\bin\Debug\17_ClassObjectDemo.pdb
+C:\Users\Hp\source\repos\2_Datatypes\17_ClassObjectDemo\obj\Debug\17_ClassObjectDemo.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\17_ClassObjectDemo\obj\Debug\17_ClassObjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\17_ClassObjectDemo\obj\Debug\17_ClassObjectDemo.exe
+C:\Users\Hp\source\repos\2_Datatypes\17_ClassObjectDemo\obj\Debug\17_ClassObjectDemo.pdb
