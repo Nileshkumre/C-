@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\15_ClassDemo\bin\Debug\15_ClassDemo.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\15_ClassDemo\bin\Debug\15_ClassDemo.exe
+C:\Users\Hp\source\repos\2_Datatypes\15_ClassDemo\bin\Debug\15_ClassDemo.pdb
+C:\Users\Hp\source\repos\2_Datatypes\15_ClassDemo\obj\Debug\15_ClassDemo.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\15_ClassDemo\obj\Debug\15_ClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\15_ClassDemo\obj\Debug\15_ClassDemo.exe
+C:\Users\Hp\source\repos\2_Datatypes\15_ClassDemo\obj\Debug\15_ClassDemo.pdb
