@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\18_Constructors\bin\Debug\18_Constructors.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\18_Constructors\bin\Debug\18_Constructors.exe
+C:\Users\Hp\source\repos\2_Datatypes\18_Constructors\bin\Debug\18_Constructors.pdb
+C:\Users\Hp\source\repos\2_Datatypes\18_Constructors\obj\Debug\18_Constructors.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\18_Constructors\obj\Debug\18_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\18_Constructors\obj\Debug\18_Constructors.exe
+C:\Users\Hp\source\repos\2_Datatypes\18_Constructors\obj\Debug\18_Constructors.pdb
