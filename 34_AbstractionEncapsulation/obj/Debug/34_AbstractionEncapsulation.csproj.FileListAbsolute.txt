@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\34_AbstractionEncapsulation\bin\Debug\34_AbstractionEncapsulation.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\34_AbstractionEncapsulation\bin\Debug\34_AbstractionEncapsulation.exe
+C:\Users\Hp\source\repos\2_Datatypes\34_AbstractionEncapsulation\bin\Debug\34_AbstractionEncapsulation.pdb
+C:\Users\Hp\source\repos\2_Datatypes\34_AbstractionEncapsulation\obj\Debug\34_AbstractionEncapsulation.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\34_AbstractionEncapsulation\obj\Debug\34_AbstractionEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\34_AbstractionEncapsulation\obj\Debug\34_AbstractionEncapsulation.exe
+C:\Users\Hp\source\repos\2_Datatypes\34_AbstractionEncapsulation\obj\Debug\34_AbstractionEncapsulation.pdb
