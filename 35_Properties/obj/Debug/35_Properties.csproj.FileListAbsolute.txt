@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\35_Properties\bin\Debug\35_Properties.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\35_Properties\bin\Debug\35_Properties.exe
+C:\Users\Hp\source\repos\2_Datatypes\35_Properties\bin\Debug\35_Properties.pdb
+C:\Users\Hp\source\repos\2_Datatypes\35_Properties\obj\Debug\35_Properties.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\35_Properties\obj\Debug\35_Properties.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\35_Properties\obj\Debug\35_Properties.exe
+C:\Users\Hp\source\repos\2_Datatypes\35_Properties\obj\Debug\35_Properties.pdb
