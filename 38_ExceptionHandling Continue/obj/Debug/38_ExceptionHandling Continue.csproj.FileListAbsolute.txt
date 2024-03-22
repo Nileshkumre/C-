@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\38_ExceptionHandling Continue\bin\Debug\38_ExceptionHandling Continue.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\38_ExceptionHandling Continue\bin\Debug\38_ExceptionHandling Continue.exe
+C:\Users\Hp\source\repos\2_Datatypes\38_ExceptionHandling Continue\bin\Debug\38_ExceptionHandling Continue.pdb
+C:\Users\Hp\source\repos\2_Datatypes\38_ExceptionHandling Continue\obj\Debug\38_ExceptionHandling Continue.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\38_ExceptionHandling Continue\obj\Debug\38_ExceptionHandling Continue.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\38_ExceptionHandling Continue\obj\Debug\38_ExceptionHandling Continue.exe
+C:\Users\Hp\source\repos\2_Datatypes\38_ExceptionHandling Continue\obj\Debug\38_ExceptionHandling Continue.pdb
