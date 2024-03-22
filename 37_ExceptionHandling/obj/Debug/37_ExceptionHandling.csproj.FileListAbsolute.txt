@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\2_Datatypes\37_ExceptionHandling\bin\Debug\37_ExceptionHandling.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\37_ExceptionHandling\bin\Debug\37_ExceptionHandling.exe
+C:\Users\Hp\source\repos\2_Datatypes\37_ExceptionHandling\bin\Debug\37_ExceptionHandling.pdb
+C:\Users\Hp\source\repos\2_Datatypes\37_ExceptionHandling\obj\Debug\37_ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\37_ExceptionHandling\obj\Debug\37_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\37_ExceptionHandling\obj\Debug\37_ExceptionHandling.exe
+C:\Users\Hp\source\repos\2_Datatypes\37_ExceptionHandling\obj\Debug\37_ExceptionHandling.pdb
+C:\Users\Hp\source\repos\2_Datatypes\37_ExceptionHandling\bin\Debug\Logs\Error.txt

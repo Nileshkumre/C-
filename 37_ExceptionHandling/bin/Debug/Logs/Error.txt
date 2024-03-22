@@ -1,0 +1,19 @@
+POST http://113.193.63.106:4050/﻿api/email
+http://113.193.63.106:4050/
+
+{
+  "ToEmail": "string",
+  "EmailSubject": "string",
+  "EmailBody": "string",
+  "IsBodyHtml": true
+}
+
+
+ Hello, <h2>User</h2>
+
+this email is sent using jquery ajax call.
+<a href="http:"//www.jquery.com">Click to read abouth ajax.
+
+
+	V#22: Test Email
+Sent using Ajax call
