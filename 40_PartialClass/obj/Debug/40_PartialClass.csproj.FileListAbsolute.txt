@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\40_PartialClass\bin\Debug\40_PartialClass.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\40_PartialClass\bin\Debug\40_PartialClass.exe
+C:\Users\Hp\source\repos\2_Datatypes\40_PartialClass\bin\Debug\40_PartialClass.pdb
+C:\Users\Hp\source\repos\2_Datatypes\40_PartialClass\obj\Debug\40_PartialClass.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\40_PartialClass\obj\Debug\40_PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\40_PartialClass\obj\Debug\40_PartialClass.exe
+C:\Users\Hp\source\repos\2_Datatypes\40_PartialClass\obj\Debug\40_PartialClass.pdb
