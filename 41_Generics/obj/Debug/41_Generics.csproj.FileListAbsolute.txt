@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\41_Generics\bin\Debug\41_Generics.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\41_Generics\bin\Debug\41_Generics.exe
+C:\Users\Hp\source\repos\2_Datatypes\41_Generics\bin\Debug\41_Generics.pdb
+C:\Users\Hp\source\repos\2_Datatypes\41_Generics\obj\Debug\41_Generics.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\41_Generics\obj\Debug\41_Generics.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\41_Generics\obj\Debug\41_Generics.exe
+C:\Users\Hp\source\repos\2_Datatypes\41_Generics\obj\Debug\41_Generics.pdb
