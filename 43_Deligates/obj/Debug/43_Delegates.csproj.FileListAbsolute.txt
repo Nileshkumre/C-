@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\43_Deligates\bin\Debug\43_Deligates.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\43_Deligates\bin\Debug\43_Deligates.exe
+C:\Users\Hp\source\repos\2_Datatypes\43_Deligates\bin\Debug\43_Deligates.pdb
+C:\Users\Hp\source\repos\2_Datatypes\43_Deligates\obj\Debug\43_Delegates.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\43_Deligates\obj\Debug\43_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\43_Deligates\obj\Debug\43_Deligates.exe
+C:\Users\Hp\source\repos\2_Datatypes\43_Deligates\obj\Debug\43_Deligates.pdb
