@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\42_Enum\bin\Debug\42_Enum.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\42_Enum\bin\Debug\42_Enum.exe
+C:\Users\Hp\source\repos\2_Datatypes\42_Enum\bin\Debug\42_Enum.pdb
+C:\Users\Hp\source\repos\2_Datatypes\42_Enum\obj\Debug\42_Enum.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\42_Enum\obj\Debug\42_Enum.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\42_Enum\obj\Debug\42_Enum.exe
+C:\Users\Hp\source\repos\2_Datatypes\42_Enum\obj\Debug\42_Enum.pdb
