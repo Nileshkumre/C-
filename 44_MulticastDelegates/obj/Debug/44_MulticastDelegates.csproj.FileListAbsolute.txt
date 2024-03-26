@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\44_MulticastDelegates\bin\Debug\44_MulticastDelegates.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\44_MulticastDelegates\bin\Debug\44_MulticastDelegates.exe
+C:\Users\Hp\source\repos\2_Datatypes\44_MulticastDelegates\bin\Debug\44_MulticastDelegates.pdb
+C:\Users\Hp\source\repos\2_Datatypes\44_MulticastDelegates\obj\Debug\44_MulticastDelegates.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\44_MulticastDelegates\obj\Debug\44_MulticastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\44_MulticastDelegates\obj\Debug\44_MulticastDelegates.exe
+C:\Users\Hp\source\repos\2_Datatypes\44_MulticastDelegates\obj\Debug\44_MulticastDelegates.pdb
