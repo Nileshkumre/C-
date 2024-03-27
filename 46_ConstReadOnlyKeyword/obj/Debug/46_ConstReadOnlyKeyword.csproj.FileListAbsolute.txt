@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\46_ConstReadOnlyKeyword\bin\Debug\46_ConstReadOnlyKeyword.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\46_ConstReadOnlyKeyword\bin\Debug\46_ConstReadOnlyKeyword.exe
+C:\Users\Hp\source\repos\2_Datatypes\46_ConstReadOnlyKeyword\bin\Debug\46_ConstReadOnlyKeyword.pdb
+C:\Users\Hp\source\repos\2_Datatypes\46_ConstReadOnlyKeyword\obj\Debug\46_ConstReadOnlyKeyword.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\46_ConstReadOnlyKeyword\obj\Debug\46_ConstReadOnlyKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\46_ConstReadOnlyKeyword\obj\Debug\46_ConstReadOnlyKeyword.exe
+C:\Users\Hp\source\repos\2_Datatypes\46_ConstReadOnlyKeyword\obj\Debug\46_ConstReadOnlyKeyword.pdb
