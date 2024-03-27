@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\47_IsAsKeyword\bin\Debug\47_IsAsKeyword.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\47_IsAsKeyword\bin\Debug\47_IsAsKeyword.exe
+C:\Users\Hp\source\repos\2_Datatypes\47_IsAsKeyword\bin\Debug\47_IsAsKeyword.pdb
+C:\Users\Hp\source\repos\2_Datatypes\47_IsAsKeyword\obj\Debug\47_IsAsKeyword.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\47_IsAsKeyword\obj\Debug\47_IsAsKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\47_IsAsKeyword\obj\Debug\47_IsAsKeyword.exe
+C:\Users\Hp\source\repos\2_Datatypes\47_IsAsKeyword\obj\Debug\47_IsAsKeyword.pdb
