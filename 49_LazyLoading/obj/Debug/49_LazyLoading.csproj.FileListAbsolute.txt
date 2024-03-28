@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\49_LazyLoading\obj\Debug\49_LazyLoading.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\49_LazyLoading\obj\Debug\49_LazyLoading.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\49_LazyLoading\bin\Debug\49_LazyLoading.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\49_LazyLoading\bin\Debug\49_LazyLoading.exe
+C:\Users\Hp\source\repos\2_Datatypes\49_LazyLoading\bin\Debug\49_LazyLoading.pdb
+C:\Users\Hp\source\repos\2_Datatypes\49_LazyLoading\obj\Debug\49_LazyLoading.exe
+C:\Users\Hp\source\repos\2_Datatypes\49_LazyLoading\obj\Debug\49_LazyLoading.pdb
