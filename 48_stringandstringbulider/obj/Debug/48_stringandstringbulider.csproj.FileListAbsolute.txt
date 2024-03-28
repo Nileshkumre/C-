@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\48_stringandstringbulider\bin\Debug\48_stringandstringbulider.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\48_stringandstringbulider\bin\Debug\48_stringandstringbulider.exe
+C:\Users\Hp\source\repos\2_Datatypes\48_stringandstringbulider\bin\Debug\48_stringandstringbulider.pdb
+C:\Users\Hp\source\repos\2_Datatypes\48_stringandstringbulider\obj\Debug\48_stringandstringbulider.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\48_stringandstringbulider\obj\Debug\48_stringandstringbulider.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\48_stringandstringbulider\obj\Debug\48_stringandstringbulider.exe
+C:\Users\Hp\source\repos\2_Datatypes\48_stringandstringbulider\obj\Debug\48_stringandstringbulider.pdb
