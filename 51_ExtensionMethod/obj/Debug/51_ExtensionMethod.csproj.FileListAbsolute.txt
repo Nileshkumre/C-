@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\51_ExtensionMethod\bin\Debug\51_ExtensionMethod.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\51_ExtensionMethod\bin\Debug\51_ExtensionMethod.exe
+C:\Users\Hp\source\repos\2_Datatypes\51_ExtensionMethod\bin\Debug\51_ExtensionMethod.pdb
+C:\Users\Hp\source\repos\2_Datatypes\51_ExtensionMethod\obj\Debug\51_ExtensionMethod.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\51_ExtensionMethod\obj\Debug\51_ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\51_ExtensionMethod\obj\Debug\51_ExtensionMethod.exe
+C:\Users\Hp\source\repos\2_Datatypes\51_ExtensionMethod\obj\Debug\51_ExtensionMethod.pdb
