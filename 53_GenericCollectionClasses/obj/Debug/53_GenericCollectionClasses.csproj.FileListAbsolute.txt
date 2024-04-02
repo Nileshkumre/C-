@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\53_GenericCollectionClasses\bin\Debug\53_GenericCollectionClasses.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\53_GenericCollectionClasses\bin\Debug\53_GenericCollectionClasses.exe
+C:\Users\Hp\source\repos\2_Datatypes\53_GenericCollectionClasses\bin\Debug\53_GenericCollectionClasses.pdb
+C:\Users\Hp\source\repos\2_Datatypes\53_GenericCollectionClasses\obj\Debug\53_GenericCollectionClasses.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\53_GenericCollectionClasses\obj\Debug\53_GenericCollectionClasses.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\53_GenericCollectionClasses\obj\Debug\53_GenericCollectionClasses.exe
+C:\Users\Hp\source\repos\2_Datatypes\53_GenericCollectionClasses\obj\Debug\53_GenericCollectionClasses.pdb
