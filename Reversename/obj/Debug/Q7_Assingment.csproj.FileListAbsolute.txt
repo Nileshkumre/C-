@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\Q7_Assingment\bin\Debug\Q7_Assingment.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\Q7_Assingment\bin\Debug\Q7_Assingment.exe
+C:\Users\Hp\source\repos\2_Datatypes\Q7_Assingment\bin\Debug\Q7_Assingment.pdb
+C:\Users\Hp\source\repos\2_Datatypes\Q7_Assingment\obj\Debug\Q7_Assingment.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\Q7_Assingment\obj\Debug\Q7_Assingment.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\Q7_Assingment\obj\Debug\Q7_Assingment.exe
+C:\Users\Hp\source\repos\2_Datatypes\Q7_Assingment\obj\Debug\Q7_Assingment.pdb
