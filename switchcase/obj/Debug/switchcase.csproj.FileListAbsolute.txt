@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\2_Datatypes\switchcase\bin\Debug\switchcase.exe.config
+C:\Users\Hp\source\repos\2_Datatypes\switchcase\bin\Debug\switchcase.exe
+C:\Users\Hp\source\repos\2_Datatypes\switchcase\bin\Debug\switchcase.pdb
+C:\Users\Hp\source\repos\2_Datatypes\switchcase\obj\Debug\switchcase.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2_Datatypes\switchcase\obj\Debug\switchcase.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2_Datatypes\switchcase\obj\Debug\switchcase.exe
+C:\Users\Hp\source\repos\2_Datatypes\switchcase\obj\Debug\switchcase.pdb
